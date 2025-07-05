@@ -122,4 +122,4 @@ The Spider-Verse Mini-World Database is a centralized system aimed at improving 
 1. Clone the repo:
    ```bash
    git clone https://github.com/argamas23/Spiderverse-Mini-World-Database.git
-   cd Data-Applications
+   
